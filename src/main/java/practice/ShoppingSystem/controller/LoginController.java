@@ -7,7 +7,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 import practice.ShoppingSystem.constant.ErrorMessageConst;
 import practice.ShoppingSystem.form.LoginForm;
 import practice.ShoppingSystem.service.LoginService;
