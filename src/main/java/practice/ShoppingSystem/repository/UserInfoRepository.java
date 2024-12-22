@@ -2,7 +2,7 @@ package practice.ShoppingSystem.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import practice.ShoppingSystem.Entity.UserInfo;
+import practice.ShoppingSystem.entity.UserInfo;
 
 /**
  * ユーザー情報テーブルDAO

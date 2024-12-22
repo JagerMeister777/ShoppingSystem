@@ -34,6 +34,9 @@ dependencies {
 	implementation 'org.apache.commons:commons-lang3:3.12.0'
 	//Spring Security
 	implementation 'org.springframework.boot:spring-boot-starter-security'
+	//Dozer Mapper
+	implementation 'net.sf.dozer:dozer:5.5.1'
+
 
 	compileOnly 'org.projectlombok:lombok'
 	runtimeOnly 'com.mysql:mysql-connector-j'

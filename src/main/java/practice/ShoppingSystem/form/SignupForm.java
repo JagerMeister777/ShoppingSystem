@@ -3,12 +3,12 @@ package practice.ShoppingSystem.form;
 import lombok.Data;
 
 /**
- * ログイン画面　form
+ * ユーザー登録画面　form
  * @author shoujiyuuki
  */
 
 @Data
-public class LoginForm {
+public class SignupForm {
 
   /**ログインID*/
   private String loginId;
