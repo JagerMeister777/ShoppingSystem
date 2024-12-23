@@ -3,7 +3,7 @@ package practice.ShoppingSystem.service;
 import java.util.Optional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import practice.ShoppingSystem.Entity.UserInfo;
+import practice.ShoppingSystem.entity.UserInfo;
 import practice.ShoppingSystem.repository.UserInfoRepository;
 
 /**

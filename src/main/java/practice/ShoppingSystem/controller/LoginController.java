@@ -16,6 +16,7 @@ import practice.ShoppingSystem.util.AppUtil;
  * ログイン画面 Controller
  * @author shoujiyuuki
  */
+
 @Controller
 @RequiredArgsConstructor
 public class LoginController {

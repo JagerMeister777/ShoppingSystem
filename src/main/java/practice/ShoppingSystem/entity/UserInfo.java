@@ -1,4 +1,4 @@
-package practice.ShoppingSystem.Entity;
+package practice.ShoppingSystem.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
